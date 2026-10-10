@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Scaler",
+  "description": "An intuitive, responsive recipe scaling calculator for cooks and bakers to scale ingredient quantities by serving size.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-serif-display {
+  font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+}
+
+@media print {
+  body {
+    background-color: white !important;
+  }
+}
+
